@@ -1,0 +1,7 @@
+/* ---------------------------Body and Headers-------------------------- */
+
+html, body, h1, header, nav, footer, ul, li {
+	margin: 0;
+	padding: 0;
+}
+
